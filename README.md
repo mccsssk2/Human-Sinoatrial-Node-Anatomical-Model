@@ -41,16 +41,21 @@ The model files are provided in legacy VTK format (ASCII data) to facilitate rap
 as construction of 3D computational models. The shape of the original SAN is also provided.
 
 * originalSAN.vtk
+
 This is the original SAN anatomy as segmented from histology.
 
 * humanSAN_geometry2.vtk
+
 This is the modified ellipsoidal SAN anatomy used in Kharche et al.
 
 * humanSAN_geometry3.vtk
+
 This is the paranodal area structure in the anatomy.
 
 * humanSAN_geometry4.vtk, humanSAN_geometry5.vtk
+
 These 2 files provide distribution of atrial tissue in the anatomy.
 
 * humanSAN_geometry6.vtk
+
 This file has the SAN border zone with exit pathways.
