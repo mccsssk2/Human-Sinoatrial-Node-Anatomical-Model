@@ -1,4 +1,4 @@
-Human Sinoatrial Node 3D Anatomical Model
+# Human sinoatrial node computational anatomy repository. 
 
 Sanjay Kharche, Ph.D.
 August 12, 2017.
