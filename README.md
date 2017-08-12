@@ -1,10 +1,12 @@
-# Human-Sinoatrial-Node-Anatomical-ModelSanjay Kharche, Ph.D.
+# Human-Sinoatrial-Node-Anatomical-Model
+
+Sanjay Kharche, Ph.D.
 August 12, 2017.
 Sanjay.Kharche@lhsc.on.ca
 ============================================================================================
 
-General
-------------
+General.
+-------
 
 This repository contains the anatomical model data of the human sinoatrial node (SAN) region's 
 anatomy. The original computational anatomy was obtained from a previous histology study:
@@ -24,7 +26,7 @@ provided in this publicly available git-hub repository. Please cite our papers a
 the anatomy in your scientific/academic studies.
 
 Resolution.
----------------
+-----------
 
 The 3D model slices are in the X-Y plane whereas the Z axis goes through consecutive planes, please see
 Figure 1 of Kharche et al.
