@@ -42,7 +42,7 @@ as construction of 3D computational models. The shape of the original SAN is als
 
 * originalSAN.vtk
 
-This is the original SAN anatomy as segmented from histology.
+This is the original SAN anatomy as segmented from histology by Chandler et al.
 
 * humanSAN_geometry2.vtk
 
