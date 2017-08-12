@@ -17,6 +17,7 @@ Computer Three-Dimensional Anatomical Reconstruction of the Human Sinus Node and
 Novel Paranodal Area. Anat Rec, 294: 970–979. doi:10.1002/ar.21379.
 
 The anatomy was modified in the study by Kharche et al. (provisionally accepted in PloS ONE):
+
 Sanjay R Kharche, Edward Vigmond, Igor R Efimov, Halina Dobrzynski.
 Computational assessment of the functional role of sinoatrial node exit pathways in the human heart.
 (accepted, August 2017).
