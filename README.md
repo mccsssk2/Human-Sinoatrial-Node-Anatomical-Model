@@ -20,7 +20,7 @@ The anatomy was modified in the study by Kharche et al.:
 Kharche SR, Vigmond E, Efimov IR, Dobrzynski H (2017) Computational assessment of the functional role of sinoatrial node exit pathways in the human heart. PLoS ONE 12(9): e0183727. https://doi.org/10.1371/journal.pone.0183727
 
 
-The original and modified SAN, well as modified full 3D model anatomy used in Kharche et al. is 
+The original and modified SAN, as well as modified full 3D model anatomy used in Kharche et al. is 
 provided in this publicly available git-hub repository. Please cite our papers as given above when using
 the anatomy in your scientific/academic studies.
 
